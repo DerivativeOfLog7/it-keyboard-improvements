@@ -1,5 +1,5 @@
 # it-keyboard-improvements
-Extremely simple AHK 2.0 scripts to add some much needed features to the Italian keyboard layout.   
+Extremely simple [AutoHotKey](https://www.autohotkey.com/) 2.0 scripts to add some much needed features to the Italian keyboard layout.   
 I decided to share it in case anyone else finds it useful or want to use it as inspiration to create their own for their needs.  
 Currently contains three hotkeys for characters whose absence I find inexcusable in the keyboard layout (´`~), vowels with macrons (āēīōū), a few mathematical symbols and greek letters.   
 More symbols will be added as I see the need to have quick access on them for my use cases.
