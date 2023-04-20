@@ -1,7 +1,7 @@
 # it-keyboard-improvements
 Extremely simple [AutoHotKey](https://www.autohotkey.com/) 2.0 scripts to add some much needed features to the Italian keyboard layout.   
 I decided to share it in case anyone else finds it useful or want to use it as inspiration to create their own for their needs.  
-Currently contains three hotkeys for characters whose absence I find inexcusable in the keyboard layout (´`~), accented vowels (ÀÈÉÌÒÙ) (was it that hard to assign a shortcut to them when the keyboard layout was created??), a few mathematical symbols and greek letters.   
+Currently contains three hotkeys for characters whose absence I find inexcusable in the keyboard layout (´\`~), accented uppercase vowels (ÀÈÉÌÒÙ) (was it that hard to assign a shortcut to them when the keyboard layout was created??), a few mathematical symbols and greek letters.   
 More symbols will be added as I see the need to have quick access on them for my use cases.
 
 # Layout
