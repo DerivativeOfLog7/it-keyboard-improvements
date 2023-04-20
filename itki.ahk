@@ -174,7 +174,7 @@ Send("≈")
 Send("±")
 }
 
-;Macrons
+;Accented uppercase vowels
 
 +<^>!A:: {
 Send("À")
