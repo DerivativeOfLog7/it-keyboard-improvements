@@ -6,7 +6,7 @@ More symbols will be added as I see the need to have quick access on them for my
 
 # Layout
 __Purple symbols are greek letters not included in the smaller script__
-![Italian_Keyboard_layout](https://user-images.githubusercontent.com/100133857/235477841-e7f7e94b-8e69-46ce-87ad-1719f4d80ec4.svg)
+![Italian_Keyboard_layout](https://user-images.githubusercontent.com/100133857/235499598-a7b263cd-7975-415e-81fa-702c51f0a8b8.svg)
 AltGr + 9 is the set intersection symbol, AltGr + Shift + 9 is the set union symbol, AltGr + Shift + Z is lowercase Σ in word-final position
 
 Additionally: 
